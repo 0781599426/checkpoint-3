@@ -1,0 +1,2 @@
+S,M,fixed_to_0,variables,rows,zLP,solver,time_s,fractional_entries,VMs_split
+11,50,51,561,116,8.339506,scipy.optimize.linprog (HiGHS),0.0195,21,9
